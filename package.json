@@ -1,0 +1,23 @@
+{
+  "name": "heroku-sandbox-UI",
+  "version": "1.0.0",
+  "description": "user interface for salesforce on demand sandboxes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohge/heroku-sandbox-UI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohge/heroku-sandbox-UI/issues"
+  },
+  "homepage": "https://github.com/sohge/heroku-sandbox-UI#readme",
+  "engines": {
+    "node": "12.20.0"
+  }
+}
