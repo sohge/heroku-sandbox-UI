@@ -1,5 +1,5 @@
 {
-  "name": "heroku-sandbox-UI",
+  "name": "heroku-sandbox-ui",
   "version": "1.0.0",
   "engines": {
     "node": "12.x"
@@ -27,7 +27,7 @@
     "url": "git+https://github.com/sohge/heroku-sandbox-UI.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sven-Carsten Ohge",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sohge/heroku-sandbox-UI/issues"
