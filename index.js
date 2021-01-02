@@ -12,9 +12,6 @@ express()
 login = () => {
   var client_id = '63ceb7ba-7c7e-410c-9861-af827a55b8b0';
   var client_secret = 'hahThea7Aad3tier';
-
-  //console.log('client %s', client_id);
-
   
   sfcc.auth.auth(client_id, client_secret, function(err, token){
     if(token) {
@@ -25,7 +22,6 @@ login = () => {
     }
     return 'sfcc-returned';
   });
-  
-  
+
 }
 
